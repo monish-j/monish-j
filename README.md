@@ -4,13 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hello! 👋 I'm a budding web developer with a passion for coding and problem-solving. Skilled in HTML, CSS, JavaScript, and currently learning Node.js. I have a basic understanding of React, as showcased in my 'Robo Friends' project. I'm eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. I'm a fast learner and ready to kickstart my career in the tech industry. Open to opportunities and ready to apply my skills in real-world projects. Let's connect!
+Hello! 👋  
+I'm a budding web developer with a passion for coding and problem-solving. Skilled in HTML, CSS, JavaScript, and currently learning Node.js. I have a basic understanding of React, as showcased in my 'Robo Friends' project. I'm eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. I'm a fast learner and ready to kickstart my career in the tech industry. Open to opportunities and ready to apply my skills in real-world projects. Let's connect!
 
-✉️  You can contact me at monishj8956@gmail.com
-🧠  I'm currently learning Node.js and how to integrate APIs into applications. I'm also learning about deploying and hosting applications to make them accessible on the web.
-🤝  I'm open to collaborating on open-source projects, especially those related to web development. I'm also interested in working on projects that involve integrating APIs, building user interfaces, or anything that allows me to learn and grow as a developer. Feel free to reach out if you have a project in mind!
-⚡  I enjoy sci-fi movies, books, and watching sports. Always exploring new frontiers!
+✉️  You can contact me at monishj8956@gmail.com  
+🧠  I'm currently learning Node.js and how to integrate APIs into applications. I'm also learning about deploying and hosting applications to make them accessible on the web.  
+🤝  I'm open to collaborating on open-source projects, especially those related to web development. I'm also interested in working on projects that involve integrating APIs, building user interfaces, or anything that allows me to learn and grow as a developer. Feel free to reach out if you have a project in mind!  
+⚡  I enjoy sci-fi movies, books, and watching sports. Always exploring new frontiers!  
 Skills: HTML, CSS, JavaScript, Basic React, Node.js (in progress)
+
 
 
 ### Skills
